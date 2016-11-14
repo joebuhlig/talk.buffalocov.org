@@ -1,8 +1,8 @@
-# name: discourse-basic-links
-# about: A Discourse plugin that lets you add links to topics
+# name: talk.buffalocov.org
+# about: A Discourse plugin that adds BCC customizations
 # version: 0.1
 # authors: Joe Buhlig
-# url: https://www.github.com/joebuhlig/discourse-basic-links
+# url: https://github.com/joebuhlig/talk.buffalocov.org
 
 enabled_site_setting :bcc_enabled
 
